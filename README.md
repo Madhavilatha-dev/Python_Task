@@ -123,7 +123,9 @@ curl --location 'http://127.0.0.1:5000/shorten' \
 "password" : "pass123"
 }
 '
+
 2. curl --location 'http://127.0.0.1:5000/a9b9f0?password=pass123'
+
 3. curl --location 'http://127.0.0.1:5000/analytics/a9b9f0'
 
 ---
